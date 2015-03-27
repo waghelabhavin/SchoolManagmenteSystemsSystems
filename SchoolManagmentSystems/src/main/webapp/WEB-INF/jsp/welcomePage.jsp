@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<%@page import="com.sivalabs.springapp.web.controllers.UserController"%>
+<%@page import="com.schoolManagment.springapp.web.controllers.UserController"%>
 <%@include file="taglib.jsp"%>
 <html>
   <head>
